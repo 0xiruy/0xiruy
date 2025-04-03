@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**0xiruy/0xiruy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👾 0xiruy
 
-Here are some ideas to get you started:
+Cybersecurity Engineer | Network Whisperer | Linux Enjoyer | Breaking Stuff to Fix Stuff 🔐
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+- 🛡️ 20+ years of experience in IT, with deep focus on **Cybersecurity**, **SOC**, and **Infrastructure**
+- 💻 Skilled in: Linux, Windows Server, Networking, SIEM, Firewalls, and Ethical Hacking
+- 🎯 Passionate about **problem-solving**, **automation**, and real-world threat defense
+- 🧠 Always learning, always building, always breaking
+
+---
+
+### 🧰 Tools & Tech
+- **Security:** Wazuh, Suricata, Splunk, Wireshark, Fail2Ban, EDR
+- **Systems:** Linux (Debian, Kali, Ubuntu), Windows Server, Powershell, Bash
+- **Networking:** TCP/IP, VLANs, Firewalls, VPN, IDS/IPS
+- **Languages:** Python, Shell Scripting, YAML
+
+---
+
+### 📂 Projects
+- 🔍 [`siem-lab`](https://github.com/0xiruy/siem-lab) – Simulated SOC with Wazuh and real log analysis
+- 🛠 [`hardening-scripts`](https://github.com/0xiruy/hardening-scripts) – Server hardening toolkit (Linux + Windows)
+- 📘 [`netsec-cheatsheet`](https://github.com/0xiruy/netsec-cheatsheet) – CompTIA / Cisco security notes and commands
+
+---
+
+### 📫 Contact
+- Email: `youremail@domain.com`
+- Resume: [Download Resume](https://yourdomain.com/resume.pdf)
+
+---
+
+> _“Amateurs hack systems, professionals hack people. Stay sharp.”_
