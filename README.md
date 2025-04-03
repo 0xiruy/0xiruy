@@ -1,7 +1,7 @@
 
 # 👾 0xiruy
 
-Cybersecurity Engineer | Network Whisperer | Linux Enjoyer | Breaking Stuff to Fix Stuff 🔐
+Cybersecurity Engineer | SecOps | Networking | Linux Enjoyer | Breaking Stuff to Fix Stuff 🔐
 
 ---
 
